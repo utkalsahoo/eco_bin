@@ -7,7 +7,7 @@
 **_you are all set to go!!_**<br>
 
 Note: `sensor_data.php` is being used for receiving remote data <br>
-user name: shubhajitdas121@gmail.com <br>
+user name: utakalsahoo <br>
 password: 1235<br>
 
 ## Basic GIT commands:
